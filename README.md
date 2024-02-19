@@ -30,7 +30,7 @@ Important words: Words in bold, in headings (h1, h2, h3), and in titles should b
 treated as more important than the other words.
 
 Search:
-Thr program should prompt the user for a query. This doesn’t need to be a Web
+The program should prompt the user for a query. This doesn’t need to be a Web
 interface, it can be a console prompt. At the time of the query, your program will
 stem the query terms, look up your index, perform some calculations (see ranking
 below) and give out the ranked list of pages that are relevant for the query, with the
